@@ -1,0 +1,90 @@
+.baslik1{
+
+    font-size: 25;
+    color: rgb(146, 126, 90);
+    font-family: 'Times New Roman', Times, serif;   
+    text-align: justify;
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.baslik2{
+font-size: medium;
+color: orange;
+text-align: justify;
+font-size:  25px;
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+
+
+
+}
+.paragraf1{
+width: 100%;
+
+font-style: italic;
+color: rgb(146, 126, 90);
+
+}
+.baslik3
+{
+    font-size: 25;
+
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    text-align:justifyİ;
+    font-style: italic;
+    font-weight: bold;
+    
+
+
+
+
+}
+    .film
+    {
+    color: rgb(3, 85, 85);
+    font-weight: bolder;
+    }
+    .forestgumpimg
+    {
+
+    max-width: 200%;
+    height: 200px;
+    }
+    .Babamveoglumimg
+    {
+
+    max-width: 200%;
+    height: 200px;
+    }
+    .mindimg
+    {
+
+    max-width: 200%;
+    height: 200px;
+    }
+.kitap
+{
+    color: rgb(3, 85, 85);
+    font-weight: bolder;
+}
+.gezi
+{
+    color: rgb(3, 85, 85);
+    font-weight: bolder;
+}
+.filmmadde{
+
+    font-style: italic;
+    color: rgb(146, 126, 90);
+}
+.kitapmadde{
+    font-style: italic;
+    color: rgb(146, 126, 90);
+}
+.gezimadde
+{
+    font-style: italic;
+    color: rgb(146, 126, 90);
+}
